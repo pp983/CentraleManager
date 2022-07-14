@@ -1,0 +1,26 @@
+[
+  {
+    "nom": "hawes",
+    "nbMinutesEnregistrement": 15,
+    "formatAPI": "json",
+    "fromProperty": "start",
+    "toProperty": "end",
+    "puissanceProperty": "power"
+  },
+  {
+    "nom": "barnsley",
+    "nbMinutesEnregistrement": 30,
+    "formatAPI": "json",
+    "fromProperty": "start_time",
+    "toProperty": "end_time",
+    "puissanceProperty": "value"
+  },
+  {
+    "nom": "hounslow",
+    "nbMinutesEnregistrement": 60,
+    "formatAPI": "csv",
+    "fromProperty": "debut",
+    "toProperty": "fin",
+    "puissanceProperty": "valeur"
+  }
+]
