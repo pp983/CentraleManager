@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="app" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ApplicationStarter" />
+    <module name="CentraleManager" />
+    <option name="PROGRAM_PARAMETERS" value="01-01-2022 20-01-2022 json" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
